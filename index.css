@@ -1,0 +1,26 @@
+*{
+background-color: #e9ecef;
+font-size: 30px;
+color:#212529;
+font-family: sans-serif;
+font-weight:bold ;
+}
+
+h1{
+    font-size: 30px;
+    text-align: center;
+    background-color: 
+}
+
+.hero-img{
+    height: auto;
+    width: 500px;
+}
+
+
+.mini{
+    color:#212529;
+    font-size: 22px;
+    font-weight: 300;
+    text-align: left;
+}
